@@ -9,6 +9,17 @@ Full stack software developer with 4 years of experience building scalable, high
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
+## 📚 Projects
+
+[Typescript DS&A Collection](https://github.com/andregamoraes/node_dsa) - A collection of data structures and algorithms implemented in Typescript.
+
+[Node JWT Auth](https://github.com/andregamoraes/node_jwt) – A backend application built with Node.js, Express, and Sequelize, providing secure user authentication with JWT and protected finance-related endpoints.
+
+[Go HTTP/1.1 Server](https://github.com/andregamoraes/go_http_server) – A lightweight HTTP/1.1 server implemented in Go, featuring support for multiple endpoints, file operations, and persistent connections.
+
+[Rust Web App](https://github.com/andregamoraes/rust_api) – A Rust-based web application using Actix-Web for the backend, Diesel as the ORM, and PostgreSQL as the database.
+
+
 ## 📫 How to Reach Me
 - **Email**: andregamoraes94@gmail.com
 - **LinkedIn**: [andregamoraes](https://www.linkedin.com/in/andregamoraes/)
