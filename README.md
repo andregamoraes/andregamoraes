@@ -19,6 +19,7 @@ Full stack software developer with 4 years of experience building scalable, high
 
 [Rust Web App](https://github.com/andregamoraes/rust_api) – A Rust-based web application using Actix-Web for the backend, Diesel as the ORM, and PostgreSQL as the database.
 
+[SnipLink](https://github.com/andregamoraes/snip-link) – A fullstack URL shortener built with Next.js and NestJS. It allows users to generate short links, automatically redirect via slugs, and view real-time visit statistics through a dashboard.
 
 ## 📫 How to Reach Me
 - **Email**: andregamoraes94@gmail.com
